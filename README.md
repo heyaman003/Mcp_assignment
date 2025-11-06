@@ -286,19 +286,3 @@ Once connected, use the `search_file` tool with these sample inputs:
   "contextLines": 1
 }
 ```
-
-### Screenshot Guide
-
-To capture a screenshot for your submission:
-1. Open MCP Inspector
-2. Connect to the server
-3. Navigate to the Tools section
-4. Select `search_file` tool
-5. Fill in the input fields (e.g., filePath: `./src/main.ts`, keyword: `import`)
-6. Click "Call Tool" or "Execute"
-7. Capture the screenshot showing both the input parameters and the output result
-
-## License
-
-MIT
-
