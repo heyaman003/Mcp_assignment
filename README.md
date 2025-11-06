@@ -4,11 +4,11 @@ A Model Context Protocol (MCP) server built with NestJS that provides a tool to 
 
 ## Features
 
-- 🔍 **Keyword Search**: Search for literal keywords or regex patterns in files
-- 📍 **Line Numbers**: Returns exact line numbers for each match
-- 📝 **Context**: Includes surrounding lines for better context
-- 🔤 **Case Sensitivity**: Optional case-sensitive or case-insensitive search
-- 🎯 **Regex Support**: Supports both literal keywords and regex patterns
+-  **Keyword Search**: Search for literal keywords or regex patterns in files
+-  **Line Numbers**: Returns exact line numbers for each match
+-  **Context**: Includes surrounding lines for better context
+-  **Case Sensitivity**: Optional case-sensitive or case-insensitive search
+-  **Regex Support**: Supports both literal keywords and regex patterns
 
 ## Prerequisites
 
